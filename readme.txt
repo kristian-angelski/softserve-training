@@ -1,0 +1,1 @@
+Initializing repository, which will keep the solutions to the given tasks from the softserve's trainings.
